@@ -23,6 +23,7 @@ twitter_username:
 github_username: lgh2009
 minimal_mistakes_skin: default
 search: true
+locale: zh-CN
 
 # Build settings
 markdown: kramdown
