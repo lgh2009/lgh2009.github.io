@@ -60,7 +60,7 @@ plugins:
 
 author:
   name   : "lgh"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio-photo.png"
   bio    : "I'm lgh."
   links:
     - label: "GitHub"
